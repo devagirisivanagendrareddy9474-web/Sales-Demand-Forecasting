@@ -20,5 +20,9 @@ This project forecasts future sales using historical business data.
 ## Results
 The model predicts future sales trends and helps businesses make informed decisions.
 
+## Forecast Output
+
+![Sales Forecast](forecast_graph%20(1).png)
+
 ## Author
-Devagiri Sivanagendra Reddy
+Devagiri Siva Nagendra Reddy
