@@ -1,3 +1,4 @@
+<img width="916" height="622" alt="image" src="https://github.com/user-attachments/assets/dc6b3db1-acc4-447c-9edc-6a35358ca935" />
 # Sales & Demand Forecasting
 
 ## Project Overview
